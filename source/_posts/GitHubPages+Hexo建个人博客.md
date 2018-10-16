@@ -1,5 +1,5 @@
 ---
-title: 建立个人博客
+title: GitHubPages+Hexo建立个人博客
 date: 2018-10-16 22:28:59
 tags: 工作
 ---
